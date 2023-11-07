@@ -12,7 +12,7 @@ I first used pseudocode to break up the functions, conditionals and validation r
 
 
 <h3>Solution Screenshot</h3>
-<img src="assetts/../assets/images/mod3screen.png">
+<img src="assetts/../assets/images/mod3Screen.png">
 
 <h3>Code Source</h3> 
 
