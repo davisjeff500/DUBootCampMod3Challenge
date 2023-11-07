@@ -2,7 +2,7 @@
 
 <h2>Deployed Solution Location</h2>
 
-https://davisjeff500.github.io/DUBootcamp-Module3-Challenge/
+https://davisjeff500.github.io/DUBootCampMod3Challenge/
 
 
 <h2>Solution Method</h2>
@@ -12,11 +12,11 @@ I first used pseudocode to break up the functions, conditionals and validation r
 
 
 <h3>Solution Screenshot</h3>
-<img src="assetts/../assets/images/mod2solutionscreen.png">
+<img src="assetts/../assets/images/mod3screen.png">
 
 <h3>Code Source</h3> 
 
-https://github.com/davisjeff500/DUBootcamp-Module3-Challenge/tree/main/DUBootcamp-Module3-Challenge
+https://github.com/davisjeff500/DUBootCampMod3Challenge
 
 
 <h3>Credits and documentation used for this project.</h3> 
